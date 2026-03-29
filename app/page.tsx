@@ -159,7 +159,7 @@ export default function Home() {
         />
         <div className="relative text-center px-6 max-w-4xl mx-auto">
           <p className="text-[#c9a84c] tracking-[0.4em] uppercase text-sm mb-6">
-            Est. 1987 · Milano, Italia
+            Est. 1987 · Tuscany, Italia
           </p>
           <h1 className="font-serif-display text-6xl md:text-8xl leading-none mb-8">
             Where Every
@@ -168,8 +168,7 @@ export default function Home() {
             <br />a Memory
           </h1>
           <p className="text-[#f5f0e8]/70 text-lg md:text-xl max-w-xl mx-auto mb-12 leading-relaxed">
-            Authentic Italian cuisine crafted from seasonal ingredients,
-            time-honored recipes, and a passion for the extraordinary.
+            Authentic Italian cuisine crafted from seasonal ingredients, time-honored recipes, and 37 years of cooking for people who care about what they eat.
           </p>
           <div className="flex flex-col sm:flex-row items-center justify-center gap-4">
             <a
@@ -431,8 +430,7 @@ export default function Home() {
               Bella Vista
             </p>
             <p className="text-[#f5f0e8]/50 leading-relaxed max-w-sm">
-              An authentic Italian dining experience. Where every meal becomes a
-              cherished memory.
+              Bella Vista. Where Italy comes to New York, one unforgettable meal at a time.
             </p>
           </div>
           <div>
